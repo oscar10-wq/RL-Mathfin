@@ -6,3 +6,5 @@ In this project, I am working on a reinforcement learning algorithm that solves 
 This entire project is based on solving the entropy-regularized mean-variance problem which can be written as the following: 
 
 <img width="714" height="101" alt="emv_portfolio_selection" src="https://github.com/user-attachments/assets/6597d2d2-34b9-49f7-9341-00553e3a9560" />
+
+(details of the notation can be found on the BACHELOR_THESIS_POLYTECHNIQUE.pdf file) 
