@@ -6,10 +6,9 @@ In this project, I am working on a reinforcement learning algorithm that solves 
 
 ### Theorem 4 (Policy Improvement Theorem) [Wang and Zhou, 2020]
 
-Let \( w \in \mathbb{R}, i \in \mathbb{N} \), and let \( \boldsymbol{f}^i = \boldsymbol{f}^i(\cdot; \cdot, \cdot, w) \) be an admissible feedback control.  
-Assume the value function \( J^{\boldsymbol{f}^i}(\cdot, \cdot; w) \in C^{1,2}([0,T) \times \mathbb{R}) \cap C^0([0,T] \times \mathbb{R}) \)  
-and satisfies \( J_{vv}^{\boldsymbol{f}^i}(t,v;w) > 0 \) for all \( (t,v) \in [0,T) \times \mathbb{R} \).  
-
+Let w ∈ ℝ, i ∈ ℕ, and let fᶦ = fᶦ(·; ·, ·, w) be an admissible feedback control.  
+Assume the value function J^{fᶦ}(·, ·; w) ∈ C^{1,2}([0,T) × ℝ) ∩ C⁰([0,T] × ℝ)  
+and satisfies J_{vv}^{fᶦ}(t,v;w) > 0 for all (t,v) ∈ [0,T) × ℝ.
 Define:
 
 ```math
