@@ -4,5 +4,5 @@ In this project, I am working on a reinforcement learning algorithm that solves 
 
 
 This entire project is based on solving the entropy-regularized mean-variance problem which can be written as the following: 
-![Entropy-Regularized EMV](images/emv_portfolio_selection.pgn)
+![Entropy-Regularized EMV](emv_portfolio_selection.pgn)
 
